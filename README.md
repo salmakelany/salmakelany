@@ -80,7 +80,6 @@ theoretical concepts and practical implementations required in the syllabus.
 👩‍🏫 Supervision
 
 Doctor: Dr. Hend Shaaban
-
 Teaching Assistant: Sara Mongy
 ------------
 ## ✅ Status
