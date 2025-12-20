@@ -77,9 +77,11 @@ theoretical concepts and practical implementations required in the syllabus.
 - **Name:** Salma Kelany mesallam El-Sayed  
 - **Section:** 2  
 ---
-
+👩‍🏫 Supervision
+Doctor: Dr. Hend Shaaban
+Teaching Assistant: Sara Mongy
+------------
 ## ✅ Status
-
 ✔️ Completed  
 ✔️ Organized by chapters  
 ✔️ Ready for submission  
